@@ -17,14 +17,14 @@
 </div>
 <Br>
 <div id="header" align="center">
-  <a href="https://react-icecream.netlify.app"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/></a>
+  <a href="https://shopping-app-with-react-and-redux.netlify.app"><img src="https://media.giphy.com/media/MeJgB3yMMwIaHmKD4z/giphy.gif" width="100"/></a>
 </div>
 <h2  id="header" align="center" >
-  <a  href="https://react-icecream.netlify.app" >Prashanta | Beautiful Ice Cream Builder UI</a>
+  <a  href="https://shopping-app-with-react-and-redux.netlify.app" >Prashanta | Shopping App with React and Redux</a>
 </h2>
 <div >
-  <a href="https://react-icecream.netlify.app" target="_blank">
-   <img alt="Responsive app image" src="./src/assets/images/react-icecream-readme.png" />
+  <a href="https://shopping-app-with-react-and-redux.netlify.app" target="_blank">
+   <img alt="Responsive app image" src="./public/shopping-app-with-react-and-redux-responsive" />
   </a>
 </div>
 <hr>
@@ -32,14 +32,15 @@
 
 ## Built With
 
-This is a beautiful <a href="https://react-icecream.netlify.app" target="_blank">ice-cream</a> builder UI.
-You can select your favourite ice-cream to order and a beautiful dynamic ice-cream will be build according to your choice.
-It's a self developed personal project created using create-react-app with react.js.
+This is a <a href="https://shopping-app-with-react-and-redux.netlify.app/" target="_blank">Shooping app</a> build with react and redux.
+You can select your favourite item to order from limited number of stock and the total prices will be calculated automatically.
+It's a self developed personal project created using create-react-app with react, redux and tailwind CSS.
 
 This app was built using these technologies.
 
 - React.js
-- CSS3
+- Redux
+- Tailwind CSS
 - VsCode
 - Git
 
@@ -47,7 +48,7 @@ This app was built using these technologies.
 
 **📖 Single-Page Layout**
 
-**🎨 Beautiful Dynamic Icecream Layout.**
+**🎨 Responsive Shooping cart layout.**
 
 **🎨What I have used**
 
@@ -56,7 +57,8 @@ This app was built using these technologies.
 - Props rendering
 - Import files
 - Arrow functions
-- State management using hook
+- State management using redux
+- Connect redux and react with connectors
 - Manage code with version control(git)
 - Integrate eslint with prettier for auto formatting
 - Use additional yarn scripts for creating beautiful UI

@@ -24,7 +24,7 @@
 </h2>
 <div >
   <a href="https://shopping-app-with-react-and-redux.netlify.app" target="_blank">
-   <img alt="Responsive app image" src="./public/shopping-app-with-react-and-redux-responsive" />
+   <img alt="Responsive app image" src="https://raw.githubusercontent.com/Prasanto19/shopping-app-with-react-and-redux/version-1.0/public/shopping-app-with-react-and-redux-responsive.png" />
   </a>
 </div>
 <hr>
